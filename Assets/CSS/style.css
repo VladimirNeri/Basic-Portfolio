@@ -12,6 +12,15 @@ nav {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+a {
+  color: #777777;
+}
+
+a:hover {
+  color: rgb(172, 87, 87)
+}
+
+
 .name {
   font-family: Georgia, 'Times New Roman', Times, serif
   font-size: 26px; 
